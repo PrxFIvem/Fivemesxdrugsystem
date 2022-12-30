@@ -2,7 +2,7 @@
 - Discord link https://discord.gg/ygfvJ6YRGx
 Made by prx
 
-Preview Video : 
+Preview Video : https://youtu.be/6ZX7wDspEMg
 
 ◉ You need to
 - ox_inventory - https://github.com/overextended/ox_inventory - Documentation : https://overextended.github.io/docs/ox_inventory/
